@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gustavolbs.gustavolbs)
+![Visitors](https://komarev.com/ghpvc/?username=gustavolbs)
 [![Years Badge](https://badges.pufler.dev/years/gustavolbs)](https://badges.pufler.dev)
+
 
 My name is Gustavo Bispo, I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2018 and currently I'm Software Engineer at Evermart. I'm passionate on learning, so I'm always studying new techs and how to make a better Front-end and I've always liked to help others during my career.
 
