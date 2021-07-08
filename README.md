@@ -4,6 +4,9 @@
   <img align="left" alt="Gustavo Bispo's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br />
+<br />
+
 My name is Gustavo Bispo, I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2018 and currently I'm Software Engineer at Evermart. I'm passionate on learning, so I'm always studying new techs and how to make a better Front-end and I've always liked to help others during my career.
 
 I’m currently learning SEO, graphQL, REGEX and some other things.
