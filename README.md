@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<head>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
 <a href="https://www.linkedin.com/in/gbispo-santos/">
   <img align="left" alt="Gustavo Bispo's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,7 +17,7 @@ I’m currently learning SEO, graphQL, REGEX and some other things.
 
 In my free time I like to play videogames (and watch or play) soccer (⚽️), to watch movies and series with my girlfriend or my family (📺) and stay with my friends searching for a thing to do.
 
-**Languages and tools:**  
+**Languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
@@ -39,13 +43,18 @@ In my free time I like to play videogames (and watch or play) soccer (⚽️), t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<div class="dark-charts">
+
 ![Gustavo Bispo github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolbs&layout=compact&theme=dracula&hide=c%2B%2B,php,python,haskell,perl,prolog,shell,hack,objective-c,ruby,java,perl%206)
 
-![Gustavo Bispo github stats](https://github-readme-stats.vercel.app/api?username=gustavolbs&count_private=true&show_icons=true&theme=dracula) 
+![Gustavo Bispo github stats](https://github-readme-stats.vercel.app/api?username=gustavolbs&count_private=true&show_icons=true&theme=dracula)
 
+</div>
 
+<div class="light-charts">
 
+![Gustavo Bispo github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolbs&layout=compact&hide=c%2B%2B,php,python,haskell,perl,prolog,shell,hack,objective-c,ruby,java,perl%206)
 
+![Gustavo Bispo github stats](https://github-readme-stats.vercel.app/api?username=gustavolbs&count_private=true&show_icons=true)
 
-
-
+</div>

@@ -1,0 +1,21 @@
+.dark-charts {
+  display: none;
+}
+
+@media screen and (prefers-color-scheme: light) {
+  .dark-charts {
+    display: none;
+  }
+  .light-charts {
+    display: block;
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .dark-charts {
+    display: block;
+  }
+  .light-charts {
+    display: none;
+  }
+}
