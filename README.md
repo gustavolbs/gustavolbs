@@ -36,11 +36,13 @@ In my free time I like to play videogames (and watch or play) soccer (⚽️), t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
-![Gustavo Bispo github stats](https://github-readme-stats.vercel.app/api?username=gustavolbs&count_private=true&show_icons=true&theme=dracula)
-
 ![Gustavo Bispo github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolbs&layout=compact&theme=dracula&hide=c%2B%2B,php,python,haskell,perl,prolog,shell,hack,objective-c,ruby,java,perl%206)
+
+![Gustavo Bispo github stats](https://github-readme-stats.vercel.app/api?username=gustavolbs&count_private=true&show_icons=true&theme=dracula) 
+
+
+
+
 
 
 
