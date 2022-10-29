@@ -4,7 +4,7 @@
 [![Years Badge](https://badges.pufler.dev/years/gustavolbs)](https://badges.pufler.dev)
 
 
-My name is Gustavo Bispo, I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2018 and currently I'm Front-End at Warren Brasil. I'm passionate on learning, so I'm always studying new techs and how to make a better Front-end and I've always liked to help others during my career.
+My name is Gustavo Bispo, I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2018 and currently I'm Front-End at Jobsity. I'm passionate on learning, so I'm always studying new techs and how to make a better Front-end and I've always liked to help others during my career.
 
 I’m currently learning SEO, graphQL, REGEX and some other things.
 
